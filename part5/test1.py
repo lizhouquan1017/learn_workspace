@@ -1,0 +1,2 @@
+def runcase():
+    print('test')
